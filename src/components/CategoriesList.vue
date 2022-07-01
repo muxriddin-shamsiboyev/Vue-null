@@ -10,7 +10,7 @@
 
 <script>
 export default {
-    name: "Categories"
+    name: "CategoriesList"
 }
 </script>
 
